@@ -14,6 +14,7 @@ include position and opacity over duration.
 - <b>Visual Studio Code</b> 
 - <b>JavaScript</b>
 - <b>HTML</b>
+- <b>CSS</b>
 
 <h2>Environments Used </h2>
 
